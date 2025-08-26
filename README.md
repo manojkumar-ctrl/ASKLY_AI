@@ -1,10 +1,10 @@
 # 🚀 ASKLY_AI
 
-👉 Live Demo: https://askly-ai.vercel.app/
+# 👉 Live Demo: https://askly-ai.vercel.app/
 
 ASKLY_AI is an AI-powered creation platform that enables users to generate content, enhance images, and review resumes — all from a sleek, user-friendly dashboard. Designed with modern developers and creators in mind, it features both free and premium plans with seamless Clerk-based authentication and billing.
 
-#🧩 Features
+# 🧩 Features
 
 🖥️ Dashboard
 Personalized dashboard to manage your creations
@@ -59,4 +59,4 @@ PostgreSQL/ → Database schema and queries
 README.md
 .env
 
-🔥 With ASKLY_AI, create smarter, design faster, and apply better!
+# 🔥 With ASKLY_AI, create smarter, design faster, and apply better!
